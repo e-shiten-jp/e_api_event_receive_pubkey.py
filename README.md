@@ -84,7 +84,7 @@ APIの基本設計について
 	│   └── file_login_response.txt ← ログイン応答出力先（自動生成）
 	├── file_url_info.txt           ← API接続情報ファイル（手動作成）
 	├── e_api_login_pubkey.py
-	└── e_api_websocket_receive_pubkey.py
+	└── e_api_event_receive_pubkey.py
 	
 	~/e_api/file_url_info.txtの内容例：
 	{
